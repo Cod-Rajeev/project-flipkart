@@ -2,7 +2,10 @@ import React from 'react'
 
 function Hello(props) {
   return (
-    <div>Welcome { props.name}</div>
+    <div>
+    <h1> Hello This a Commit</h1>
+    Welcome { props.name}
+  </div>
   )
 }
 
